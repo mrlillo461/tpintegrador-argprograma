@@ -1,5 +1,7 @@
 package prode;
 
+import java.util.Arrays;
+
 public class Ronda {
 	private String nro;
 	private Partido[] partidos;
@@ -13,6 +15,12 @@ public class Ronda {
 		this.partidos = partidos;
 	}
 	
+	
+	@Override
+	public String toString() {
+		return "Ronda [partidos=" + Arrays.toString(partidos) + "]";
+	}
+
 	public String getNro() {
 		return nro;
 	}

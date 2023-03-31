@@ -38,6 +38,11 @@ public class Partido {
 		return null;
 	}
 	
+	@Override
+	public String toString() {
+		return equipo1 + " " + golesEquipo1 + "  " + golesEquipo2 + " " + equipo2;
+	}
+
 	public Equipo getEquipo1() {
 		return equipo1;
 	}
@@ -68,5 +73,5 @@ public class Partido {
 
 	public void setGolesEquipo2(int golesEquipo2) {
 		this.golesEquipo2 = golesEquipo2;
-	}
+	}	
 }

@@ -12,6 +12,11 @@ public class Equipo {
 		this.nombre = nombre;
 		this.descripcion = descripcion;
 	}
+	
+	@Override
+	public String toString() {
+		return nombre;
+	}
 
 	public String getNombre() {
 		return nombre;
