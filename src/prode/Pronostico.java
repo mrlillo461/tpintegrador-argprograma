@@ -4,15 +4,28 @@ public class Pronostico {
 	private Partido partido;
 	private Equipo equipo;
 	private ResultadoEnum resultado;
-	
+
 	public Pronostico() {
-		
+
 	}
-	
+
 	public Pronostico(Partido partido, Equipo equipo, ResultadoEnum resultado) {
 		this.partido = partido;
 		this.equipo = equipo;
 		this.resultado = resultado;
+	}
+
+	@Override
+	public String toString() {
+		return "Pronostico [partido=" + partido + ", equipo=" + equipo + ", resultado=" + resultado + "]";
+	}
+
+	public int puntos() {
+		if (resultado == partido.resultado(equipo)) {
+			return 1;
+		} else {
+			return 0;
+		}
 	}
 
 	public Partido getPartido() {
@@ -38,4 +51,5 @@ public class Pronostico {
 	public void setResultado(ResultadoEnum resultado) {
 		this.resultado = resultado;
 	}
+
 }

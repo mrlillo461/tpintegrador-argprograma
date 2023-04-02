@@ -15,7 +15,6 @@ public class Ronda {
 		this.partidos = partidos;
 	}
 	
-	
 	@Override
 	public String toString() {
 		return "Ronda [partidos=" + Arrays.toString(partidos) + "]";
