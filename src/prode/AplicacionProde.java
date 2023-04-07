@@ -66,7 +66,6 @@ public class AplicacionProde {
 
 		Pronostico[] unPronostico = new Pronostico[cantPartidosRonda];
 		Partido[] partidosRonda = ronda.getPartidos();
-		Pronostico pronostico = new Pronostico(/*partidosRonda[i], partidosRonda[i].getEquipo1(), prediccion*/);
 		int aciertos = 0;
 
 		for (int i = 0; i < cantPartidosRonda; i++) {
@@ -89,9 +88,10 @@ public class AplicacionProde {
 			}
 
 			if (prediccion != null) {
-				pronostico.setPartido(partidosRonda[i]);
-				pronostico.setEquipo(partidosRonda[i].getEquipo1());
-				pronostico.setResultado(prediccion);
+				Pronostico pronostico = new Pronostico(partidosRonda[i], partidosRonda[i].getEquipo1(), prediccion);
+//				pronostico.setPartido(partidosRonda[i]);
+//				pronostico.setEquipo(partidosRonda[i].getEquipo1());
+//				pronostico.setResultado(prediccion);
 				unPronostico[i] = pronostico;
 			}
 			
