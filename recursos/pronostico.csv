@@ -1,49 +1,193 @@
-idPartido;Equipo1;gana1;empata;gana2;Equipo2;;
-1;Qatar;;X;;Ecuador;;
-2;England;;X;;Iran;;
-3;Senegal;;;X;Netherlands;;
-4;USA;;X;;Wales;;
-5;Argentina;X;;;Saudi Arabia;;
-6;Denmark;;X;;Tunisia;;
-7;Mexico;;X;;Poland;;
-8;France;X;;;Australia;;
-9;Morocco;;X;;Croatia;;
-10;Germany;X;;;Japan;;
-11;Spain;X;;;Costa Rica;;
-12;Belgium;X;;;Canada;;
-13;Switzerland;X;;;Cameroon;;
-14;Uruguay;;X;;Korea Republic;;
-15;Portugal;X;;;Ghana;;
-16;Brazil;X;;;Serbia;;
-17;Wales;;;X;Iran;;
-18;Qatar;;;X;Senegal;;
-19;Netherlands;;X;;Ecuador;;
-20;England;;X;;USA;;
-21;Tunisia;;;X;Australia;;
-22;Poland;X;;;Saudi Arabia;;
-23;France;X;;;Denmark;;
-24;Argentina;X;;;Mexico;;
-25;Japan;;;X;Costa Rica;;
-26;Belgium;;;X;Morocco;;
-27;Croatia;X;;;Canada;;
-28;Spain;;X;;Germany;;
-29;Cameroon;;X;;Serbia;;
-30;Korea Republic;;;X;Ghana;;
-31;Brazil;X;;;Switzerland;;
-32;Portugal;X;;;Uruguay;;
-33;Ecuador;;;X;Senegal;;
-34;Netherlands;X;;;Qatar;;
-35;Wales;;;X;England;;
-36;Iran;;;X;USA;;
-37;Australia;X;;;Denmark;;
-38;Tunisia;X;;;France;;
-39;Poland;;;X;Argentina;;
-40;Saudi Arabia;;;X;Mexico;;
-41;Croatia;;X;;Belgium;;
-42;Canada;;;X;Morocco;;
-43;Japan;X;;;Spain;;
-44;Costa Rica;;;X;Germany;;
-45;Ghana;;;X;Uruguay;;
-46;Korea Republic;X;;;Portugal;;
-47;Serbia;;;X;Switzerland;;
-48;Cameroon;X;;;Brazil;;
+Participante;Equipo1;gana1;empata;gana2;Equipo2
+Mariana;Qatar;;;X;Ecuador
+Mariana;England;X;;;Iran
+Mariana;Senegal;;;X;Netherlands
+Mariana;USA;;X;;Wales
+Mariana;Argentina;;;X;Saudi Arabia
+Mariana;Denmark;;X;;Tunisia
+Mariana;Mexico;;X;;Poland
+Mariana;France;X;;;Australia
+Mariana;Morocco;;X;;Croatia
+Mariana;Germany;;;X;Japan
+Mariana;Spain;X;;;Costa Rica
+Mariana;Belgium;X;;;Canada
+Mariana;Switzerland;X;;;Cameroon
+Mariana;Uruguay;;X;;Korea Republic
+Mariana;Portugal;X;;;Ghana
+Mariana;Brazil;X;;;Serbia
+Mariana;Wales;;;X;Iran
+Mariana;Qatar;;;X;Senegal
+Mariana;Netherlands;;X;;Ecuador
+Mariana;England;;X;;USA
+Mariana;Tunisia;;;X;Australia
+Mariana;Poland;X;;;Saudi Arabia
+Mariana;France;X;;;Denmark
+Mariana;Argentina;X;;;Mexico
+Mariana;Japan;;;X;Costa Rica
+Mariana;Belgium;;;X;Morocco
+Mariana;Croatia;X;;;Canada
+Mariana;Spain;;X;;Germany
+Mariana;Cameroon;;X;;Serbia
+Mariana;Korea Republic;;;X;Ghana
+Mariana;Brazil;X;;;Switzerland
+Mariana;Portugal;X;;;Uruguay
+Mariana;Ecuador;;;X;Senegal
+Mariana;Netherlands;X;;;Qatar
+Mariana;Wales;;;X;England
+Mariana;Iran;;;X;USA
+Mariana;Australia;X;;;Denmark
+Mariana;Tunisia;X;;;France
+Mariana;Poland;;;X;Argentina
+Mariana;Saudi Arabia;;;X;Mexico
+Mariana;Croatia;;X;;Belgium
+Mariana;Canada;;;X;Morocco
+Mariana;Japan;X;;;Spain
+Mariana;Costa Rica;;;X;Germany
+Mariana;Ghana;;;X;Uruguay
+Mariana;Korea Republic;X;;;Portugal
+Mariana;Serbia;;;X;Switzerland
+Mariana;Cameroon;X;;;Brazil
+Mariana;Netherlands;X;;;USA
+Mariana;Argentina;X;;;Australia
+Mariana;Japan;;X;;Croatia
+Mariana;Brazil;X;;;Korea Republic
+Mariana;France;X;;;Poland
+Mariana;England;X;;;Senegal
+Mariana;Morocco;;;X;Spain
+Mariana;Portugal;X;;;Switzerland
+Mariana;Netherlands;;;X;Argentina
+Mariana;Croatia;;;X;Brazil
+Mariana;England;;;X;France
+Mariana;Morocco;;;X;Portugal
+Mariana;Argentina;X;;;Croatia
+Mariana;France;X;;;Morocco
+Mariana;Croatia;X;;;Morocco
+Mariana;Argentina;X;;;France
+Pedro;Qatar;X;;;Ecuador
+Pedro;England;X;;;Iran
+Pedro;Senegal;;X;;Netherlands
+Pedro;USA;X;;;Wales
+Pedro;Argentina;;X;;Saudi Arabia
+Pedro;Denmark;X;;;Tunisia
+Pedro;Mexico;;X;;Poland
+Pedro;France;;;X;Australia
+Pedro;Morocco;X;;;Croatia
+Pedro;Germany;;X;;Japan
+Pedro;Spain;;;X;Costa Rica
+Pedro;Belgium;;;X;Canada
+Pedro;Switzerland;;;X;Cameroon
+Pedro;Uruguay;X;;;Korea Republic
+Pedro;Portugal;;;X;Ghana
+Pedro;Brazil;;;X;Serbia
+Pedro;Wales;;X;;Iran
+Pedro;Qatar;;X;;Senegal
+Pedro;Netherlands;X;;;Ecuador
+Pedro;England;X;;;USA
+Pedro;Tunisia;;X;;Australia
+Pedro;Poland;;;X;Saudi Arabia
+Pedro;France;;;X;Denmark
+Pedro;Argentina;;;X;Mexico
+Pedro;Japan;;X;;Costa Rica
+Pedro;Belgium;;X;;Morocco
+Pedro;Croatia;;;X;Canada
+Pedro;Spain;X;;;Germany
+Pedro;Cameroon;X;;;Serbia
+Pedro;Korea Republic;;X;;Ghana
+Pedro;Brazil;;;X;Switzerland
+Pedro;Portugal;;;X;Uruguay
+Pedro;Ecuador;;X;;Senegal
+Pedro;Netherlands;;;X;Qatar
+Pedro;Wales;;X;;England
+Pedro;Iran;;X;;USA
+Pedro;Australia;;;X;Denmark
+Pedro;Tunisia;;;X;France
+Pedro;Poland;;X;;Argentina
+Pedro;Saudi Arabia;;X;;Mexico
+Pedro;Croatia;X;;;Belgium
+Pedro;Canada;;X;;Morocco
+Pedro;Japan;;;X;Spain
+Pedro;Costa Rica;;X;;Germany
+Pedro;Ghana;;X;;Uruguay
+Pedro;Korea Republic;;;X;Portugal
+Pedro;Serbia;;X;;Switzerland
+Pedro;Cameroon;;;X;Brazil
+Pedro;Netherlands;X;;;USA
+Pedro;Argentina;X;;;Australia
+Pedro;Japan;;;X;Croatia
+Pedro;Brazil;X;;;Korea Republic
+Pedro;France;X;;;Poland
+Pedro;England;X;;;Senegal
+Pedro;Morocco;;;X;Spain
+Pedro;Portugal;X;;;Switzerland
+Pedro;Netherlands;;;X;Argentina
+Pedro;Croatia;;;X;Brazil
+Pedro;England;;;X;France
+Pedro;Morocco;;;X;Portugal
+Pedro;Argentina;X;;;Croatia
+Pedro;France;X;;;Morocco
+Pedro;Croatia;X;;;Morocco
+Pedro;Argentina;X;;;France
+Juan;Qatar;;;X;Ecuador
+Juan;England;X;;;Iran
+Juan;Senegal;;;X;Netherlands
+Juan;USA;;X;;Wales
+Juan;Argentina;X;;;Saudi Arabia
+Juan;Denmark;X;;;Tunisia
+Juan;Mexico;;;X;Poland
+Juan;France;X;;;Australia
+Juan;Morocco;;;X;Croatia
+Juan;Germany;X;;;Japan
+Juan;Spain;X;;;Costa Rica
+Juan;Belgium;X;;;Canada
+Juan;Switzerland;;;X;Cameroon
+Juan;Uruguay;X;;;Korea Republic
+Juan;Portugal;X;;;Ghana
+Juan;Brazil;X;;;Serbia
+Juan;Wales;X;;;Iran
+Juan;Qatar;;;X;Senegal
+Juan;Netherlands;X;;;Ecuador
+Juan;England;X;;;USA
+Juan;Tunisia;;X;;Australia
+Juan;Poland;;X;;Saudi Arabia
+Juan;France;X;;;Denmark
+Juan;Argentina;X;;;Mexico
+Juan;Japan;;X;;Costa Rica
+Juan;Belgium;;X;;Morocco
+Juan;Croatia;X;;;Canada
+Juan;Spain;;;X;Germany
+Juan;Cameroon;;X;;Serbia
+Juan;Korea Republic;X;;;Ghana
+Juan;Brazil;X;;;Switzerland
+Juan;Portugal;;X;;Uruguay
+Juan;Ecuador;;X;;Senegal
+Juan;Netherlands;;;X;Qatar
+Juan;Wales;;;X;England
+Juan;Iran;;;X;USA
+Juan;Australia;;;X;Denmark
+Juan;Tunisia;;X;;France
+Juan;Poland;;X;;Argentina
+Juan;Saudi Arabia;;;X;Mexico
+Juan;Croatia;X;;;Belgium
+Juan;Canada;;X;;Morocco
+Juan;Japan;;;X;Spain
+Juan;Costa Rica;X;;;Germany
+Juan;Ghana;;;X;Uruguay
+Juan;Korea Republic;;X;;Portugal
+Juan;Serbia;;X;;Switzerland
+Juan;Cameroon;;;X;Brazil
+Juan;Netherlands;X;;;USA
+Juan;Argentina;X;;;Australia
+Juan;Japan;;;X;Croatia
+Juan;Brazil;X;;;Korea Republic
+Juan;France;X;;;Poland
+Juan;England;X;;;Senegal
+Juan;Morocco;;;X;Spain
+Juan;Portugal;X;;;Switzerland
+Juan;Netherlands;;;X;Argentina
+Juan;Croatia;;;X;Brazil
+Juan;England;;;X;France
+Juan;Morocco;;;X;Portugal
+Juan;Argentina;X;;;Croatia
+Juan;France;X;;;Morocco
+Juan;Croatia;X;;;Morocco
+Juan;Argentina;X;;;France

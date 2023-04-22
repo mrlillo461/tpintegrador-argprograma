@@ -1,0 +1,49 @@
+idPartido;Equipo1;gana1;empata;gana2;Equipo2
+1;Qatar;;X;;Ecuador
+2;England;;X;;Iran
+3;Senegal;;;X;Netherlands
+4;USA;;X;;Wales
+5;Argentina;;;x;Saudi Arabia
+6;Denmark;;X;;Tunisia
+7;Mexico;;;X;Poland
+8;France;X;;;Australia
+9;Morocco;;X;;Croatia
+10;Germany;;;x;Japan
+11;Spain;X;;;Costa Rica
+12;Belgium;X;;;Canada
+13;Switzerland;X;;;Cameroon
+14;Uruguay;;X;;Korea Republic
+15;Portugal;X;;;Ghana
+16;Brazil;X;;;Serbia
+17;Wales;;;X;Iran
+18;Qatar;;;X;Senegal
+19;Netherlands;;X;;Ecuador
+20;England;;X;;USA
+21;Tunisia;;;X;Australia
+22;Poland;X;;;Saudi Arabia
+23;France;X;;;Denmark
+24;Argentina;X;;;Mexico
+25;Japan;;;X;Costa Rica
+26;Belgium;;;X;Morocco
+27;Croatia;X;;;Canada
+28;Spain;;X;;Germany
+29;Cameroon;;X;;Serbia
+30;Korea Republic;;;X;Ghana
+31;Brazil;X;;;Switzerland
+32;Portugal;X;;;Uruguay
+33;Ecuador;;;X;Senegal
+34;Netherlands;X;;;Qatar
+35;Wales;;;X;England
+36;Iran;;;X;USA
+37;Australia;X;;;Denmark
+38;Tunisia;X;;;France
+39;Poland;;;X;Argentina
+40;Saudi Arabia;;;X;Mexico
+41;Croatia;;X;;Belgium
+42;Canada;;;X;Morocco
+43;Japan;X;;;Spain
+44;Costa Rica;;;X;Germany
+45;Ghana;;;X;Uruguay
+46;Korea Republic;X;;;Portugal
+47;Serbia;;;X;Switzerland
+48;Cameroon;X;;;Brazil

@@ -1,38 +1,40 @@
 package prode;
 
 import java.util.Arrays;
+import java.util.List;
 
 public class Ronda {
-	private String nro;
-	private Partido[] partidos;
+	private int nro;
+	private List<Partido> partidos;
 	
 	public Ronda() {
 		
 	}
 
-	public Ronda(String nro, Partido[] partidos) {
+	public Ronda(int nro, List<Partido> partidos) {
 		this.nro = nro;
 		this.partidos = partidos;
 	}
 	
+
 	@Override
 	public String toString() {
-		return "Ronda [partidos=" + Arrays.toString(partidos) + "]";
+		return "Ronda [nro=" + nro + ", partidos=" + partidos + "]";
 	}
 
-	public String getNro() {
+	public int getNro() {
 		return nro;
 	}
 	
-	public void setNro(String nro) {
+	public void setNro(int nro) {
 		this.nro = nro;
 	}
 	
-	public Partido[] getPartidos() {
+	public List<Partido> getPartidos() {
 		return partidos;
 	}
 	
-	public void setPartidos(Partido[] partidos) {
+	public void setPartidos(List<Partido> partidos) {
 		this.partidos = partidos;
 	}
 }
